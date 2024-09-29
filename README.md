@@ -2,7 +2,7 @@
 
 In this project, you will find an analysis of cepheid data, the manipulation of relevant equations in order to obtain the Hubble Constant.
 
-The age of the universe is inversely proportional to the hubble constant. Therefore the ultimate goal is to determine this number.
+The age of the universe is inversely proportional to the hubble constant. Therefore the ultimate goal is to obtain calculate this value.
 
 Once obtained, it is compared to secondary sources. Indeed, in this project, I found the age of the universe to be 13.77 billion years old.
 According to a 2021 paper, the age of the universe is 13.8 billion years old;
@@ -13,3 +13,9 @@ Following the implementation of the code, the results were presented in:
 - A presentation
 
 This data was presented to professors and students at the University of Southampton.
+
+In this repo you may find:
+- The relevant code
+- Run instructions
+- Report in pdf form
+- Presentation powerpoint
