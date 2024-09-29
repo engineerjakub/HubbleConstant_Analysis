@@ -1,0 +1,12 @@
+instructions for assignment_code
+
+1. run the code. two figures will show up.
+2. one of the first figures, labelled 'Cepheid period-luminosity relation' is for stage 1.
+3. all the values are printed on the figure.
+4. for numbers from stage 2 onwards, they are listed in the terminal. 
+5. all data is labelled by its galaxy, the numbers correspond with the positions in the data files
+i.e. the first number for galaxy IC4182 will correspond for the first cepheid, and so forth.
+6. the distances and their errors in parsecs are listed separately. they are easy to read as they are labelled individually.
+7. the last 'set' of numbers include the chi-square, the value for a reduced chi-square test
+as well as the hubble constant, its error, the age of the universe, and its error.
+8. the second figure therefore shows the plot for the hubble constant.
